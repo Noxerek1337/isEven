@@ -1,6 +1,8 @@
 # is_even
 VERY GUUT CHECKKERRR NUMBER IS EVEEEENNNNNNNN
 
+fri suupport -> https://hexmc.space/discord
+
 # CODE KUALITI
  10000/10
  
